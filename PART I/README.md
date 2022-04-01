@@ -50,9 +50,3 @@ The highest accuracy we find when we employ count vectorization is 0.952.
 - Based on the multiple attempts presented previously, we found that the DNN model performed the best after word-embedding. 
 - We used 'description', 'name', 'details', 'attribute_pair', 'brand_category' as our predictor variables. 
 - This model returns an accuracy of ~0.964. 
-
-# Instructions
-
-We stored our individual file in the [**individual**](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/tree/main/PART%20I/individual) folder, and put our final model in the [**final**](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/tree/main/PART%20I/Final) folder.
-
-In the final folder, you can see our final solution approach in this file : [Part1_Solution Approach.ipynb](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/blob/main/PART%20I/Final/%20Part1_Solution%20Approach.ipynb), while test our model using your new data in this file: [Part1_Run this file with your data.ipynb](https://github.com/liyue34673/DSO_560_NLP_Project_2021_Black/blob/main/PART%20I/Final/Part1_Run%20this%20file%20with%20your%20data.ipynb)
